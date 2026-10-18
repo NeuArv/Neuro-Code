@@ -1,6 +1,6 @@
 # Neuro-Code
 
-Exercise notebook for the Neural Computation course (LMU Biology): computational function of biological units, using the Izhikevich neuron model.
+Exercise notebook for the Neural Computation course (GSN-LMU): computational function of biological units.
 
 ## Contents
 
