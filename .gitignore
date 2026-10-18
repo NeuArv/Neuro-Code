@@ -1,0 +1,15 @@
+# Python
+*.py
+__pycache__/
+*.pyc
+
+# Generated figures
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
